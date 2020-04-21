@@ -1,0 +1,3 @@
+﻿  2-3.cpp
+X:\coderepo\CPP-Reference\CPP-Reference\2-3\2-3.cpp(12,21): warning C4101:  'remainderMoney': unreferenced local variable
+  2-3.vcxproj -> X:\coderepo\CPP-Reference\CPP-Reference\Debug\2-3.exe
