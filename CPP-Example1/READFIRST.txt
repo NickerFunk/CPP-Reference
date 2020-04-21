@@ -1,0 +1,6 @@
+
+--------------------------------------------------
+All examples in this folder is from the link below
+--------------------------------------------------
+
+http://cppforschool.com/assignments.html
