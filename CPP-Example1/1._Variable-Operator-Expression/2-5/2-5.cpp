@@ -1,5 +1,8 @@
 
+// VARIABLE-OPERATOR-EXPRESSION
+
 // 2-5.cpp
+// Write a program which accepts days as integer and display total number of years, months and days in it.
 
 #include <iostream>
 

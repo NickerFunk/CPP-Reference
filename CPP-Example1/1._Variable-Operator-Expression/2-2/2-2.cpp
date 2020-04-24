@@ -1,4 +1,6 @@
 
+// VARIABLE-OPERATOR-EXPRESSION
+
 // 2-2.cpp
 
 #include <iostream>

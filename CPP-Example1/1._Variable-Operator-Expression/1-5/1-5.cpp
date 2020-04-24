@@ -1,4 +1,6 @@
 
+// VARIABLE-OPERATOR-EXPRESSION
+
 // 1-5.cpp
 // Write a program which accept principle, rate and time from user and print the simple interest.
 

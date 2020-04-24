@@ -1,4 +1,6 @@
 
+// VARIABLE-OPERATOR-EXPRESSION
+
 // 1-2.cpp
 // Write a program to display the following output using a single cout statement.
 
